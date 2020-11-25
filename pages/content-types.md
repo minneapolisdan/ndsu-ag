@@ -68,7 +68,7 @@ NDSU Ag & Ext will need a Publications content type long-form articles with a ta
 
 See: [Publications](https://www.ag.ndsu.edu/publications)
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScnIhljl8_cvcfeqJrm5ZdBXzlZu1Ja2jTr4QrdTNjlW7BRXA/viewform?usp=sf_link" target="_blank">Answer Publications questions 🤔</a>
+See related publications question in [Open question](/questions) 
 
 ## Alerts
 
@@ -83,7 +83,7 @@ Currently recipes are simply content in the body field of a basic page, but it i
 Examples from current site(s): 
 https://www.ag.ndsu.edu/food/recipes/beans/black-bean-chocolate-cake
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSfWNyurv8IEveBenAa5e0XcxL5YEAjm12YsEJ6HIxU__0uNpQ/viewform?usp=sf_link" target="_blank">Answer Recipes questions 🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScv0mh0b1_EHADokGvZ09Csuxf5250Cm654MD-4moPjKsJmyg/viewform?usp=sf_link" target="_blank">Answer Recipes questions 🤔</a>
 
 ## Podcasts
 

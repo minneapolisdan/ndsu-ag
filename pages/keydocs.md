@@ -16,7 +16,7 @@ These documents were provided by NDSU as guidance and to show work-to-date. We a
 * [Major changes](https://docs.google.com/document/d/1ElRGactL1ndHPmuBzZMqqdDek1a0oNz08s_9mIfJUis/edit) 👈 <small>There are numerous relevant bullet points in this doc that will be relevant to our overall build. We are unclear if this is definitive, compared to some of the other documentation.
 * [Blueprint wireframe](https://docs.google.com/drawings/d/15vy_So6HRMz_auPcNAy0GTvcVPz9v0xFTj6huattnyE/edit)
 * [Technical Wish List](https://drive.google.com/drive/u/1/folders/1nGR5KvqdQdLxHF6qqFZYNDwznVct9DjE)
-* [Course/Program example](https://docs.google.com/document/d/1hibGF9EzPqhJCrmshdzR_hkgxfOv7AMqAowXX1L6AFk/edit) -- See our related question re: events vs programs and how they will work together, if at all.
+* [Course/Program example](https://docs.google.com/document/d/1hibGF9EzPqhJCrmshdzR_hkgxfOv7AMqAowXX1L6AFk/edit) 👈 <small>See our related question re: events vs programs and how they will work together, if at all.</small>
 * [Original proposal](https://drive.google.com/drive/u/1/search?q=ndsu%20ag%20proposal)
 * [ND 4H County Forms and Website](https://docs.google.com/document/d/1zYRle3-I6k4poV0zLtsyZwvhhHNdZAeZrkOx4RIwKaU/edit)
 * [County extension sites](https://docs.google.com/document/d/1SxCxvh0GJdFAH_pPRUx1S968A1_qAoeVO3Xn9EfzJDo/edit)

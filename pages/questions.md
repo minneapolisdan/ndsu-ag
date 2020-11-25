@@ -60,7 +60,7 @@ Examples from current site(s):
 
 Our assumption is that Publications will remain its own, stand-alone area of the website with a single content type, but that publications can also be linked to elsewhere within the site. (e.g. if a college or program has a "publication" a description and link can be pulled into their pages via a tag view).  Publications will also be pulled into the Ag Hub (we think?) again via a tagged search or view. 
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSdip5gbulPf9VFpJHDfgWzZnTZwHBf6MiDUTn9HpBJX2yfAzA/viewform?usp=sf_link" target="_blank">Answer Publications questions 🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScnIhljl8_cvcfeqJrm5ZdBXzlZu1Ja2jTr4QrdTNjlW7BRXA/viewform?usp=sf_link" target="_blank">Answer Publications questions 🤔</a>
 
 
 
