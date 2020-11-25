@@ -102,7 +102,7 @@ https://www.ag.ndsu.edu/tree-selector
 
 ## Research Reports 
 
-We are unclear on this content type: 
+We are unclear on the requirements for this content type. 
 
 > REC content that has not been Extensionized, is not clearly actionable
 
@@ -110,7 +110,7 @@ We are unclear on this content type:
 
 ## Extension County Offices
 
-There are 53 of these currently that appear to function as “microsites” and appear under Extension in the site’s navigation. Content includes, basic  information, resources, staff information, and news. It is unclear at this point if the same approach is expected on the new site.
+There are 53 of these currently that appear to function as “microsites” and appear under Extension in the site’s navigation. Content includes basic information, resources, staff information, and news. It is unclear at this point if the same approach is expected on the new site.
 
 Examples from current site(s): 
 https://www.ag.ndsu.edu/extension/county-extension-offices
@@ -120,7 +120,7 @@ https://www.ag.ndsu.edu/casscountyextension
 
 ## Research Extension Centers
 
-Currently there are 10 Research Extension Centers and currently each is treated like a microsite with it’s own navigation. Content includes pages detailing various research, news, reports, and staff directories. The homepage highlights content found in various sections of the site. Content overall is very file-heavy (lots of links to PDFs). In the new site, these center sites live navigationally under the Ag Hub. It is unclear at this point if the same approach is expected on the new site.
+Currently there are 10 Research Extension Centers and each is treated like a microsite with its own navigation. Content includes pages detailing various research, news, reports, and staff directories. The homepage highlights content found in various sections of the site. Content overall is very file-heavy (lots of links to PDFs). In the new site, these center sites live navigationally under the Ag Hub. It is unclear at this point if the same approach is expected on the new site.
 Examples from current site(s): 
 
 https://www.ag.ndsu.edu/research/research-extension-centers
@@ -134,7 +134,7 @@ https://www.ag.ndsu.edu/CentralGrasslandsREC
 * Videos (Drupal media)
 * Images (Drupal media)
 * Social media (how to handle, just icon links? share links?)
-* Newsletters -- managed externally, subscribe links added to Drupal on relevant pages. Also, an overally landing page? This may need to be a content type, if so. 
+* Newsletters -- managed externally, subscribe links added to Drupal on relevant pages. Also, an overall landing page listing them? This may need to be a content type, if so. 
 
 See question regarding newsletters in [open questions](/questions)
 
@@ -150,7 +150,7 @@ https://www.ag.ndsu.edu/careers/current-job-openings
 
 ### Out of scope for now?
 
-These are all items that were unknown prior to our initial discovery and our initial proposal; we are willing to discuss as needed but given overall project scope, budget, and timeline feel these are best left for a phase two.
+These are all items that were unknown prior to our initial discovery and our initial proposal. We are willing to discuss as needed but given overall project scope, budget, and timeline, these may be best left for a phase two.
 
 * Worksheets/checklists
 * Quizzes
