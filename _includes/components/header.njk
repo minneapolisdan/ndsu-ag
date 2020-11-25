@@ -1,6 +1,6 @@
 <div class="top-0 bg-scroll left-0 m-0 fixed w-full z-10 mx-auto" x-data="{ atTop: true}" x-on:scroll.window="atTop = (window.pageYOffset > 0) ? false : true"> 
     <div class="mx-auto max-w-screen-lg">  
-      <div class="text-gray-800  font-bold text-3xl pl-4 mt-4 "
+      <div class="text-gray-800  font-bold text-3xl pl-4 mt-4 mb-3"
          x-bind:class="{'transition  hidden' : !atTop}"
         >
         <a href="/"><span class="text-md" x-data="{message:'{{ metadata.emoji }}'}" x-text="message"></span></a>

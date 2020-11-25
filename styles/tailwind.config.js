@@ -21,8 +21,16 @@ module.exports = {
             'max-width': '100%',
             a: {
               color: '#3182ce',
+              'text-decoration': 'none',
               '&:hover': {
                 color: '#2c5282',
+              },
+            },
+            'a.button': {
+              color: '#fff',
+              padding: '.5em 1em .5em 1em',
+              '&:hover': {
+                color: '#fff',
               },
             },
             '.prose a.edit, .tag a': {

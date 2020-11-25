@@ -750,8 +750,8 @@ blockquote {
   padding: 1rem;
 }
 
-a.edit  {
-  color: "pink";
+a.button  {
+  color: "white";
 }
 
 .callout {
@@ -824,6 +824,7 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
   color: #3182ce;
   text-decoration: underline;
   font-weight: 500;
+  text-decoration: none;
 }
 
 .prose a:hover {
@@ -1150,6 +1151,15 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
 
 .prose {
   max-width: 100%;
+}
+
+.prose a.button {
+  color: #fff;
+  padding: .5em 1em .5em 1em;
+}
+
+.prose a.button:hover {
+  color: #fff;
 }
 
 .prose .prose a.edit, .prose .tag a {
@@ -32769,6 +32779,7 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
     color: #3182ce;
     text-decoration: underline;
     font-weight: 500;
+    text-decoration: none;
   }
 
   .sm\:prose a:hover {
@@ -33095,6 +33106,15 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
 
   .sm\:prose {
     max-width: 100%;
+  }
+
+  .prose a.sm\:button {
+    color: #fff;
+    padding: .5em 1em .5em 1em;
+  }
+
+  .prose a.sm\:button:hover {
+    color: #fff;
   }
 
   .prose .prose a.sm\:edit, .prose .sm\:tag a {
@@ -64636,6 +64656,7 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
     color: #3182ce;
     text-decoration: underline;
     font-weight: 500;
+    text-decoration: none;
   }
 
   .md\:prose a:hover {
@@ -64962,6 +64983,15 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
 
   .md\:prose {
     max-width: 100%;
+  }
+
+  .prose a.md\:button {
+    color: #fff;
+    padding: .5em 1em .5em 1em;
+  }
+
+  .prose a.md\:button:hover {
+    color: #fff;
   }
 
   .prose .prose a.md\:edit, .prose .md\:tag a {
@@ -96503,6 +96533,7 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
     color: #3182ce;
     text-decoration: underline;
     font-weight: 500;
+    text-decoration: none;
   }
 
   .lg\:prose a:hover {
@@ -96829,6 +96860,15 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
 
   .lg\:prose {
     max-width: 100%;
+  }
+
+  .prose a.lg\:button {
+    color: #fff;
+    padding: .5em 1em .5em 1em;
+  }
+
+  .prose a.lg\:button:hover {
+    color: #fff;
   }
 
   .prose .prose a.lg\:edit, .prose .lg\:tag a {
@@ -128370,6 +128410,7 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
     color: #3182ce;
     text-decoration: underline;
     font-weight: 500;
+    text-decoration: none;
   }
 
   .xl\:prose a:hover {
@@ -128696,6 +128737,15 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
 
   .xl\:prose {
     max-width: 100%;
+  }
+
+  .prose a.xl\:button {
+    color: #fff;
+    padding: .5em 1em .5em 1em;
+  }
+
+  .prose a.xl\:button:hover {
+    color: #fff;
   }
 
   .prose .prose a.xl\:edit, .prose .xl\:tag a {
@@ -160237,6 +160287,7 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
     color: #3182ce;
     text-decoration: underline;
     font-weight: 500;
+    text-decoration: none;
   }
 
   .\32xl\:prose a:hover {
@@ -160563,6 +160614,15 @@ ul.contains-task-list, .prose ul.contains-task-list, .prose-xl ul.contains-task-
 
   .\32xl\:prose {
     max-width: 100%;
+  }
+
+  .prose a.\32xl\:button {
+    color: #fff;
+    padding: .5em 1em .5em 1em;
+  }
+
+  .prose a.\32xl\:button:hover {
+    color: #fff;
   }
 
   .prose .prose a.\32xl\:edit, .prose .\32xl\:tag a {

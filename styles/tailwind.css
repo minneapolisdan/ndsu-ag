@@ -7,9 +7,8 @@
     @apply rounded p-4 bg-gray-100;
 
   }
-
-  a.edit  {
-    color: "pink";
+  a.button  {
+    color: "white";
   }
 
   .callout {

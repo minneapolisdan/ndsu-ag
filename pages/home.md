@@ -1,15 +1,17 @@
 ---
 layout: layouts/home.njk
-title: Project overiew 
-date: 2020-11-24
+title: Project overview 
+date: 2020-11-25
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-The following sections outline our understanding of the current project scope, informed by all of the documentation and information generated to date. These documents include the original RFP, questions and responses, Electric Citizen's original proposal, meeting notes, and all files provided by NDSU.
+The following sections outline our understanding of current project scope, informed by all of the documentation and information generated to date. These documents include the original RFP, questions and responses, Electric Citizen's original proposal, meeting notes, and all files provided by NDSU.
 
-There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. This is a living website and will continue to be updated as more information arrives.
+There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. The purpose of this living website is to clarify key technical requirements, and to ultimately create an official build plan.
+
+All the pages in this site are interspersed with "answer" buttons that will open up a Google form allowing you to provide answers to our specific questions. Please be as expansive in your responses as possible; we can set up a Zoom to discuss finer points as needed.
 
 ## Primary goals and requirements
 
@@ -22,13 +24,19 @@ Electric Citizen will develop a single Drupal 9 website that will bring the cont
 
 ### 1. NDSU Ag homepage
 
-We have not discussed the homepage in any detail so we should start this discussion soon. 🤔 
+We have not discussed the homepage in any detail so we should start this discussion soon.  
 
-<!-- * Have you given any thought to how the homepage will be organized?
-* What content should it contain? 
-* Will it need any special features? -->
+**Questions:**
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUfhxVrdGv-g6FoL_8vgMfz2ak5_2-iim9ZQzKPq9LzU21_w/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+* Is the above diagram accurate, as a high-level overview of how content will be organized on the new site?
+* Have you given any thought to how the homepage will be organized?
+* What content or types of content should it contain? What calls to action? 
+* Will the homepage need any special features or controls different than a standard landing page?
+
+
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/1N26zqAp2S3jSr1kweZHWXhEeTUDFh0PeP0M6GUjO2Fo/edit?usp=sharing" target="_blank">Answer NDSU Ag homepage questions 🤔</a>  
+
+☝️ This will open a response form in a new tab, you can edit/change your responses if needed.
 
 
 ### 2. College of Agriculture, Food Systems, and Natural Resources (CAFSNR)
@@ -46,14 +54,14 @@ Moving forward, all of these sites will be moved under the CAFSNR umbrella of th
 
 All content and design desicions in this section should be geared toward student recruitments.
 
-<!-- #### Questions
+#### Questions
 
 * Does each school/dept have their own content team? 
 * Plus a main content team for CAFSNR?
 * You mention consistent menus for each school -- does this mean no custom pages/menu items for each school? Or should they be able to add additional pages as needed?
-* How should we handle the long name (College of Agriculture, Food Systems, and Natural Resources) in the top-level menu? -->
+* How should we handle the long name (College of Agriculture, Food Systems, and Natural Resources) in the top-level menu?
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctQWd81uo58r3nXdCm9zk2USnY5Uw0__v587qQlJNt2pUS2w/viewform?embedded=true" width="100%" height="1051" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSctQWd81uo58r3nXdCm9zk2USnY5Uw0__v587qQlJNt2pUS2w/viewform?usp=sf_link" target="_blank">Answer CAFSNR questions 🤔</a> 
 
 ### 3. Ag Hub
 
@@ -70,15 +78,15 @@ The Ag Hub is a new top-level section of the website that will be used to organi
 
 <!-- **Questions:**  -->
 
-<!-- * From our conversations and from the wireframe presented, it appears this was originally intended to be a stand-alone site, but is now being folded into this umbrella site. Is this correct? 
+* From our conversations and from the wireframe presented, it appears this was originally intended to be a stand-alone site, but is now being folded into this umbrella site. Is this correct? 
 * From a techinical level, this appears to mostly a topic-based directory that includes search in order to present a variety of content (and content types) in a one-stop section of the website. Is that correct?
 * Given that this is no longer a stand-alone site (assuming our assumption is correct), **we believe there may be a better approach to the Ag Hub that is structed more like a searchable directory of resources (perhaps with faceted search), instead of a "minisite" within a site**. Are you open to discussing this approach?
 * In the architecture linked above there is a lot of content listed for Ag Hub that is actually part of extension, or another area of this site. 
 * We need to best determine how Ag Hub will function to pull in that content, vs creating it two places
 * In your site outline, you have both county centers and research centers under Ag Hub, while we are envisioning them under Extension, with CONTENT from those centers pulled into the Ag Hub as appropriate.
-* You site map also does indicate other content, such as all of the topics shown in the wireframe -- only REC/AES -- is your current thinking around Ag Hub much simpler than we are envisioning? -->
+* You site map also does indicate other content, such as all of the topics shown in the wireframe -- only REC/AES -- is your current thinking around Ag Hub much simpler than we are envisioning?
 
-<iframe class="mt-4" src="https://docs.google.com/forms/d/e/1FAIpQLScR2wn1BZPV3PXiqwxceIJJDfAenxCDQuCbfV93gyWr6LzBhA/viewform?embedded=true" width="100%" height="1497" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSctQWd81uo58r3nXdCm9zk2USnY5Uw0__v587qQlJNt2pUS2w/viewform?usp=sf_link" target="_blank">Answer Ag Hub questions 🤔</a> 
 
 
 
@@ -99,11 +107,11 @@ Each topic currently has a slider with large images linking out to various place
 
 **Questions:**
 
-<!-- * NDSU indicates that this content is being re-organized with a new architecture. When will this work be complete?
+* NDSU indicates that this content is being re-organized with a new architecture. When will this work be complete?
 * Are the "topics" pages all self-managed by each group? They are set up different, and many out of date. Is there a better way to handle "topics"? 
-* For program registrations, these appear to be handled by an external link to an NDSU payment system -- can we assume this to be case moving forward also? -->
+* For program registrations, these appear to be handled by an external link to an NDSU payment system -- can we assume this to be case moving forward also?
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePCUUinA-TxTU_6w7K0pINmIOvFxN9p7udggKaPb9i3XGwEQ/viewform?embedded=true" width="100%" height="1099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScR2wn1BZPV3PXiqwxceIJJDfAenxCDQuCbfV93gyWr6LzBhA/viewform?usp=sf_link" target="_blank">Answer Extension questions 🤔</a> 
 
 ## Assumptions and Agreements
 
