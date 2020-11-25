@@ -1,127 +1,106 @@
 ---
 layout: layouts/home.njk
-title: Meet Cosmos
-date: 2020-11-20
+title: Project overiew 
+date: 2020-11-24
 permalink: /
 eleventyNavigation:
   key: Home
   order: 0
 ---
-Cosmos is starter project you can use to spin up a simple website exactly like this one. It uses [Eleventy](https://www.11ty.io) for site generation, [Tailwind 2.0](https://tailwindcss.com/) for utility-based theming, and [Alpine.js](https://github.com/alpinejs/alpine) for a lightweight JavaScript engine. You can host your site on [Netlify](https://www.netlify.com), with automated [Github](https://www.github.com) deployments and an optional [Netlify CMS](https://www.netlifycms.org/) integration. Cosmos is designed to be:
+The following sections outline our understanding of the current project scope, informed by all of the documentation and information generated to date. These documents include the original RFP, questions and responses, Electric Citizen's original proposal, meeting notes, and all files provided by NDSU.
 
-* **Easy to use** 😀 -- drop in a new page and it appears magically in your navigation 
-* **Writing focused** 📔 -- clean pages, nice typograpy and a simple blog with tags and multiple authors
-* **Lightning fast and accessible** 🚀 -- static files, system fonts, minimal JavaScript, purge and minify All the Things, fully responsive, accesible to all
-* **Easy on the eyes** 👀 -- a minimalist design and beautiful typography that lets your content shine
-* **Markdown and Emoji friendly** 🦔 -- support for markdown footnotes, custom containers, anchors, and emoji!
-* **Flexible** 💪 -- disable features you don't need, add advanced features with serverless functions or Apline.js
+There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. This is a living website and will continue to be updated as more information arrifes.
 
-Cosmos is named in honor of the great communicator [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan) and his ability to explain complex ideas and complicated scenarios like the *entire universe* with simple words and illustrations. You can use Cosmos for documentation sites, developer blogs, to sketch out new ideas, or for whatever suits your fancy.  
+## Primary goals and requirements
 
-- - -
+Electric Citizen will develop a single Drupal 9 website that will bring the content from numerous areas throughout NDSU ag under a single umbrella. The homepage of the website will consist of a yet-to-be-determined set of content, and from the top level navigation of this website, a user will be able to navigate to one of these main areas and its subpages: 
 
-## “Out of chaos, find simplicity.” -- Bruce Lee 🥋
+![Diagram](/static/img/ndsu.png)
 
-Cosmos was inspired by my search of the modern web for the simplest possible way to stand up the simplest possible website in the least amount of time, with the freedom to extend as needed, zero cost, no maintenance burden, and virtually zero effort. Here is where I landed: 
+* All sections of the main site will share a common theme
+* All sections will share a common set of content types and functionality (with limitations as needed)
+* 
 
-* [Eleventy](https://www.11ty.io) for a super fast Node-based static site generator that stays out of your way and lets you ship only what you want to ship. It is really kind of great 🚀
-* [Tailwind 2.0](https://tailwindcss.com/) for a brilliant and tiny utility-first CSS framework. The more projects I build with Tailwind the better it gets.  🎨
-* [Alpine.js](https://github.com/alpinejs/alpine) a minimal framework for simple or advanced JavaScript. It is the Tailwind of JavaScript with a utility-based approach requiring zero lines of Javascript. 🕹️
-* [Netlify](https://www.netlify.com/) for one-click installs, easy form support, free hosting, and an automated [Github](https://github.com/) deployment pipepline 🤖
-* [Netlify CMS](https://www.netlify.com/) (optional) to provide an easy Markdown editor for creating and changing content 💻
+### 1. NDSU Ag homepage
 
-Cosmos was built to satisfy a very particular desire for creating simple, notebook-like websites at the click of a button. If you wish, you may customize Cosmos or use it as the basis for your creating your own starter. There are also dozens of other [Eleventy starters](https://www.11ty.dev/docs/starter/) that may better meet your specific needs or tastes. 
+We have not discussed the homepage in any detail. 🤔 
 
-- - -
+**Questions:**
 
-## Want to get started? 🙋 Deploy a new Cosmos site now!
+* Have you given any thought to how the homepage will be organized?
+* What content should it contain? 
+* Will it need any special features?
 
-Clone your own copy of Cosmos and deploy it to Netlify with the click of a button. You'll need an existing [Github account](https://github.com/) and a [Netlify account](https://www.netlify.com/) (which you  can create during this process if you wish):
+### 2. College of Agriculture, Food Systems, and Natural Resources (CAFSNR)
 
-<div class="flex width-full  justify-center">
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/broeker/cosmos"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
-</div>
+All of the content for CAFSNR (including general info, all academic programs/units, schools, colleges, etc) will be moved into the new site. This content currently resides here is quite broad and deep:
 
-### Wait, what happens if I click that button?? 🤔
+https://www.ag.ndsu.edu/academics
 
-* Netlify will ask for permission to connect to your Github account, and then clone this git repository to your account (you can name your repository whatever you wish)
-* Once connected, Netlify robots will spin up a new site configured to use your new repository
-* You can immediately deploy changes simply by pushing to your repository
-* Easy as pie 
+All of the departments and schools are currently on two disparate systems with different navigation and content. 
 
-## Whoa, slow down Tex 🐌 🤠
+* https://www.ndsu.edu/agecon/ (e.g. Typo 3)
+* https://www.ag.ndsu.edu/plantpath/ (e.g. Ag CMS)
 
-If you'd prefer to try this out locally first, you can do that also. These are also the same steps you'll use to work locally if you chose the option above.
+Moving forward, all of these sites will be moved under the CAFSNR umbrella of the ag site, with consistent navigation and content types for all units/schools (About, Future Students, Current Students, Faculty & Staff, Alumni, Research, News/newsletters, alerts).
 
-### Step one
+All content and design desicions in this section should be geared toward student recruitments.
 
-Grab a copy of the code by cloning the Cosmos repository:
+#### Questions
 
-```
-git clone https://github.com/broeker/cosmos
-```
+* Does each school/dept have their own content team? 
+* Plus a main content team for CAFSNR?
+* You mention consistent menus for each school -- does this mean no custom pages/menu items for each school? Or should they be able to add additional pages as needed?
+* How should we handle the long name (College of Agriculture, Food Systems, and Natural Resources) in the top-level menu?
 
-### Step two
+### 3. Ag Hub
 
-Install the site and run and initial build command:
+> The goal of the Ag Hub is to provide a one-stop source for information about various ag topics (for example, wheat production, federal ag programs, variety trials, farm/ranch stress) rather than content stored based on organizational structure (on departmental, REC, etc. websites).
 
-```
-cd cosmos
+The Ag Hub is a new top-level section of the website that will be used to organize content that is currently spread across numerous different websites including Extension, AES, and CAFSNR. Paulsen is currently developing the list of content and an architecture for this content, and have produced an initial wireframe. 
 
-npm install (only necessary the first time!)
+* [Content architecture](https://docs.google.com/spreadsheets/d/13ONJKXYxq10thkYPBgB92lCRoIgG1FVTbxRyoc6xThk/edit?usp=sharing)
+* [Wireframe](https://www.figma.com/proto/HmJmEmT8DQyGhk6Do370rn/NDSU-Wireframe?node-id=9%3A51&viewport=176%2C-201%2C1&scaling=min-zoom)
 
-npn run build (only necessary the first time!)
-```
+::: callout 
+*This remains the most unclear part of the project for our team.* Our understanding is that will contain a mixture of new content, along with content pulled from both Extension and perhaps CAFSNR. Defining the Ag Hub needs to happen soon and will inform large parts of the architecture.
+:::
 
-### Step three
+**Questions:** 
 
-Now spin up your local server to see your site!
+* From our conversations and from the wireframe presented, it appears this was originally intended to be a stand-alone site, but is now being folded into this umbrella site. Is this correct? 
+* From a techinical level, this appears to mostly a topic-based directory that includes search in order to present a variety of content (and content types) in a one-stop section of the website. Is that correct?
+* Given that this is no longer a stand-alone site (assuming our assumption is correct), **we believe there may be a better approach to the Ag Hub that is structed more like a searchable directory of resources (perhaps with faceted search), instead of a "minisite" within a site**. Are you open to discussing this approach?
+* In the architecture linked above there is a lot of content listed for Ag Hub that is actually part of extension, or another area of this site. 
+* We need to best determine how Ag Hub will function to pull in that content, vs creating it two places
+* In your site outline, you have both county centers and research centers under Ag Hub, while we are envisioning them under Extension, with CONTENT from those centers pulled into the Ag Hub as appropriate.
+* You site map also does indicate other content, such as all of the topics shown in the wireframe -- only REC/AES -- is your current thinking around Ag Hub much simpler than we are envisioning?
 
-```
-npm run start
-```
+## 4. NDSU Extension
 
-and you are off the races. If you like what you see you'll want to fork this into your own repository. You can easily set up a new Netlify site manually simpy by pointing it at your repository. 🏇
+All of the content from NDSU Extension will be moved over to the new site and available via top level navigation. The content for extension can currently be found here and is also quite broad and deep:
 
-## Requirements
+https://www.ag.ndsu.edu/extension
 
-You must be running version 12 or higher of Node due to the new Tailwind release. I recommend using NVM to easily manage your Node versions if you need to switch back and forth between older versions. 
+There are subsites for each primary area of extension (e.g. Crops, Farm Economics) that contain:
 
-* [Node and NPM](https://nodejs.org/)
-* [NVM](https://github.com/nvm-sh/nvm) (optional)
+* **Topics** -- these seem to be variety of pages and sub-pages within each area that contain everything from publications and PDFs to subpages to external links etc. They appear to be organically organized and created (and many are out of date.)
+* **Programs** -- multiple programs per landing page, each with its own subpages. Links to external registration. 
+* **Publications** -- a list of linked publications that are pulled from the global publication content type. Clicking a publication takes you to directly to the publication section of the site.
+* **Connect** -- a page with bio info, headshots, and basic contact info for each area
 
-#### To find your current node version:
+Each topic currently has a slider with large images linking out to various places, including Youtubes, links to pubs, etc. There are also links to "apps", quick links, resources, latest tagged news
 
-```
-node --version
-```
+**Questions:**
 
-## Coming someday ⛅
+* NDSU indicates that this content is being re-organized with a new architecture. When will this work be complete?
+* Are the "topics" pages all self-managed by each group? They are set up different, and many out of date. Is there a better way to handle "topics"? 
+* For program registrations, these appear to be handled by an external link to an NDSU payment system -- can we assume this to be case moving forward also?
 
-* More advanced code blocks with syntax highlighting
-* Dark mode support (via Tailwind 2.0)
-* A bit more use of Alpine.js e.g. smooth scroll to #top, smoother header animation
-* Better support for nested pages/hierarchical menus [See examples](https://github.com/shanerobinson/demo-11ty-prev-next)
-* Lightweight search 
-* Netlify serverless function support
-  ✨✨✨
+## Assumptions and Agreements
 
-## Caveats/TODOs
+* EC will build a single site Drupal architecture, including all of the content types, views, taxonomies, and all other related Drupal configuration in order to build out the site as described above and elsewhere on this project site
+* NDSU and/or its partners will be responsible for all content migration into this new platform
 
-Netlify CMS is fully integrated and working, but not documented. Coming soon!
 
-## Credits
 
-Recently I was seeking a way to replace a jumbled mess of Google docs, Basecamp posts, wireframes, diagrams, and other content into a simple website. Cosmos is based on my experience researching more than a dozen existing starter kits to become familiar with Eleventy and to discover any common best practices and techniques. The following were especially valuable in my learning journey:
-
-* [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate) by Dan Urbanowicz
-* [Eleventy-Tailwind-AlpineJS Starter](https://github.com/gregwolanski/eleventy-tailwindcss-alpinejs-starter) by Greg Wolanski
-* [Eleventy  One](https://github.com/philhawksworth/eleventyone) by Phil Hacksworth
-
-There is no one "right way" to build an Eleventy site an this is just one small attempt.
-
-Many starter kits are much more ambitious than this one, which is designed to be as simple and lightweight as possible while still allowing for some more features in the future (Alpine.js), an easy path toward a more advance design if desired (Tailwind), and an easy way for non-technical users to create and edit content (Netlify CMS). 
-
-- - -
-
-My thanks to Zach Leatherman and the Eleventy community for this platform and its wide variety of applications. Onward!
