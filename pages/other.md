@@ -87,7 +87,6 @@ As noted by NDSU:
 As with research centers, this content will continue to live under the main Extension umbrella.
 
 <a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSc9cKxB8fcVxshhRzdKHOdUxv6g8ORuxcjqi4M_btwNEh_8Ng/viewform?usp=sf_link" target="_blank">Answer Extension Office questions 🤔</a>
-e
 
 ### 6. Multidisciplinary Issues & Research Projects
 
