@@ -11,7 +11,7 @@ NDSU Ag & Ext has compiled a list of known content types, along with desired fun
 
 **We have started an initial build plan draft below that will be expanded and revised as we continue to gather more information. See draft plan here:**
 
-* See [Build plan draft](https://docs.google.com/document/d/1ubikpzz9qfGd5bDxCGCpTcKc-JsCyMPvYySkUo4nIKQ/edit?usp=sharing) -- if you have initial feedback on anything in this plan please post on Basecamp.
+* See [Build plan draft](https://docs.google.com/document/d/1ubikpzz9qfGd5bDxCGCpTcKc-JsCyMPvYySkUo4nIKQ/edit?usp=sharing) -- if you have initial feedback on anything in this plan please add comments directly to the draft document.
 
 ## Pages 
 

@@ -15,21 +15,21 @@ As noted by NDSU:
 
 > The Non-ag Content part of the project focuses on the auditing, re-organizing, and migration of non-ag (community, family, food, health, horticulture, and money) NDSU Extension content.
 
-This is the largely same content described above in the Extension section of the project overview. For the purposes of this project EC assumes all of the content will live in Extension section of the website, under the appropriate program or department.
+This is largely the same content described above in the Extension section of the project overview. For the purposes of this project EC assumes all of the content will live in the Extension section of the website, under the appropriate program or department.
 
-**Questions**
+**Questions:**
 
 * Gravity Switch is developing a new content architecture for this that will presumably differ from the structure outlined in the project overview -- when will this work be complete? 
 * We are assuming it will not introduce new content types or functionality beyond what is described above?
 * Need clarity on 4-H -- we assume if it is included it will function the same as the rest?
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScKG1p-3Ziupjn8VlFMwVDa0vOwy6qk5_wPFh_ZWV1Rdya-6w/viewform?usp=sf_link" target="_blank">Answer Non-ag Content questions  🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScKG1p-3Ziupjn8VlFMwVDa0vOwy6qk5_wPFh_ZWV1Rdya-6w/viewform?usp=sf_link" target="_blank">Answer Non-ag Content questions 🤔</a>
 
 ### 2. Central services
 
 Central services are external services provided by NDSU that will be used to pull in content throughout the new website. These include:
 
-* **Directories**
+* **Directory**
 * **News**
 * **Newsletters**
 
@@ -53,7 +53,7 @@ As noted by NDSU:
 
 > This service is critical to the Engagement Strategy and will be developed by Electric Citizen within Drupal.
 
-**Questions**
+**Questions:**
 
 * Tagged events will show up as links in other areas of the site as needed 
 * Currently you use an external link for registrations -- can we assume that will continue to be the case? 
@@ -86,7 +86,7 @@ As noted by NDSU:
 
 As with research centers, this content will continue to live under the main Extension umbrella.
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSc9cKxB8fcVxshhRzdKHOdUxv6g8ORuxcjqi4M_btwNEh_8Ng/viewform?usp=sf_link" target="_blank">Answer Extension Office questions 🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSe_U_STM14R6Pe9Imcwkh_NfKnb_C9fW5E3BgpsTR_WT3Hr8Q/viewform?usp=sf_link" target="_blank">Answer Extension Office questions 🤔</a>
 
 ### 6. Multidisciplinary Issues & Research Projects
 

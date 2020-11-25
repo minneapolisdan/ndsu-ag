@@ -53,7 +53,7 @@ Examples from current site(s):
 * https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-selfish-behavior-has-economic-costs
 * https://www.ag.ndsu.edu/academics/student-profile-billie-lentz
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwyp1cxdB565XEpI5zBn-oTNYdCIpS0akCEsWjYOH5dzlsog/viewform?usp=sf_link" target="_blank">Answer  questions 🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwyp1cxdB565XEpI5zBn-oTNYdCIpS0akCEsWjYOH5dzlsog/viewform?usp=sf_link" target="_blank">Answer News questions 🤔</a>
 
 
 ## Publications
@@ -68,8 +68,8 @@ Our assumption is that Publications will remain its own, stand-alone area of the
 
 We need to develop more detailed requirements surrounding each of these areas to determine appropriate user roles, workflows, and methods. These decisions will have a significant effect on overall site archicture. 
 
-* **Group** -- this module may be a candidate for letting research centers and county sites manage their own content and menus. 
-* **Workbench Access** -- this is a third-party module that helps us control who can edit what content and provides a fairly reasonable way to manage access across a wide range of content. We are considering this as the main candidate to manage content within CAFSNR, Extension, and Ag Hub. 
+* **Group** -- this module may be a candidate for letting research centers and county sites manage their own content and menus 
+* **Workbench Access** -- this is a third-party module that helps us control who can edit what content and provides a fairly reasonable way to manage access across a wide range of content. We are considering this as the main candidate to manage content within CAFSNR, Extension, and Ag Hub 
 * **Menu access** -- one big issue in Drupal is menu permissions; if you give a user permissions to manage menus they typically have access to manage ALL menus. This usually undesirable so we will need more details surrounding expectations for menu management
 * **Number of menus** -- we'll need to determine whether we create separate menu structures for each key area of the site, or rely largely on one main menu
 
@@ -92,7 +92,7 @@ As noted in the overview, content from Central Services will be pulled into this
 
 ## Tools
 
-In previous discovery we identifed two main JS tools (e.g. Wheat nitrogen calculator), and list of Excel spreadhseets used as tools. Our current plan is to re-theme and hopefully use the exact JS in the current tools, and to link to each spreadsheet as appropriate. 
+In previous discovery we identified  two main JS tools (e.g. Wheat nitrogen calculator), and list of Excel spreadsheets used as tools. Our current plan is to re-theme and hopefully use the exact JS in the current tools, and to link to each spreadsheet as appropriate. 
  
  See: [List of tools](https://docs.google.com/spreadsheets/d/13ONJKXYxq10thkYPBgB92lCRoIgG1FVTbxRyoc6xThk/edit#gid=996020785)
 
@@ -116,7 +116,7 @@ We have not discussed how, or if, to handle calls to action. Many of our higher 
 
 ## Search
 
-We have not discussed search; unless NDSU provision a Solr server we will be limited to core Drupal search and search API. This is powerful, but will limit ability to do certain things like searchable PDFs.
+We have not discussed search; unless NDSU provisions a Solr server we will be limited to core Drupal search and search API. This is powerful, but will limit the ability to do certain things like searchable PDFs.
 
 * How will search be handled? 
 * Global search plus Ag Hub search? 
