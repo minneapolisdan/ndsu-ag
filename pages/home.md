@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 The following sections outline our understanding of the current project scope, informed by all of the documentation and information generated to date. These documents include the original RFP, questions and responses, Electric Citizen's original proposal, meeting notes, and all files provided by NDSU.
 
-There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. This is a living website and will continue to be updated as more information arrifes.
+There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. This is a living website and will continue to be updated as more information arrives.
 
 ## Primary goals and requirements
 

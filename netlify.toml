@@ -1,6 +1,13 @@
 [build]
   publish = "_site"
   command = "npm run build"
+  functions = "functions"
+
+[[plugins]]
+ package = "netlify-plugin-form-submissions"
+ [plugins.inputs]
+ formNames = "approved-comments"
+ dataDirectory = "_data" 
 
 # REDIRECT and HEADERS examples
 
