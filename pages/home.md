@@ -11,7 +11,7 @@ The following sections outline our understanding of current project scope, infor
 
 There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. The purpose of this living website is to clarify key technical requirements, and to ultimately create an official build plan.
 
-All the pages in this site are interspersed with "answer" buttons that will open up a Google form allowing you to provide answers to our specific questions. Please be as expansive in your responses as possible; we can set up a Zoom to discuss finer points as needed.
+All the pages in this site are interspersed with "answer" buttons that will open up a Google form allowing you to provide answers to our specific questions. Please be as expansive in your responses as possible; we can set up a Zoom to discuss finer points as needed. (Note: you be able to go back and edit or add to your responses as needed.)
 
 ## Primary goals and requirements
 
