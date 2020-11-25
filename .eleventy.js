@@ -3,8 +3,12 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
-
+const markdownIt = require("markdown-it");
+const md = new markdownIt({
+ html: true
+});
 module.exports = function(eleventyConfig) {
+
 
   eleventyConfig.addShortcode("version", function () {
     return String(Date.now());
@@ -58,6 +62,12 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addFilter("machineDate", dateObj => {
     return DateTime.fromJSDate(dateObj).toFormat("yyyy-MM-dd");
   });
+
+  // Add a dateDisplay filter 
+ eleventyConfig.addFilter("dateDisplay", require("./filters/dates.js") );
+ eleventyConfig.addFilter("markdown", (content) => {
+ return md.render(content);
+ });
 
   // Minify CSS
   eleventyConfig.addFilter("cssmin", function(code) {
