@@ -53,7 +53,7 @@ Examples from current site(s):
 * https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-selfish-behavior-has-economic-costs
 * https://www.ag.ndsu.edu/academics/student-profile-billie-lentz
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwyp1cxdB565XEpI5zBn-oTNYdCIpS0akCEsWjYOH5dzlsog/viewform?usp=sf_link" target="_blank">Answer  questions 🤔</a
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwyp1cxdB565XEpI5zBn-oTNYdCIpS0akCEsWjYOH5dzlsog/viewform?usp=sf_link" target="_blank">Answer  questions 🤔</a>
 
 
 ## Publications

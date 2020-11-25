@@ -23,15 +23,15 @@ This is the largely same content described above in the Extension section of the
 * We are assuming it will not introduce new content types or functionality beyond what is described above?
 * Need clarity on 4-H -- we assume if it is included it will function the same as the rest?
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScKG1p-3Ziupjn8VlFMwVDa0vOwy6qk5_wPFh_ZWV1Rdya-6w/viewform?usp=sf_link" target="_blank">Answer Non-ag Content questions</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScKG1p-3Ziupjn8VlFMwVDa0vOwy6qk5_wPFh_ZWV1Rdya-6w/viewform?usp=sf_link" target="_blank">Answer Non-ag Content questions  🤔</a>
 
 ### 2. Central services
 
 Central services are external services provided by NDSU that will be used to pull in content throughout the new website. These include:
 
-* **Directorie**
-* **New**
-* **Newsletter**
+* **Directories**
+* **News**
+* **Newsletters**
 
 **Questions:**
 
@@ -45,7 +45,7 @@ Central services are external services provided by NDSU that will be used to pul
 
 We need to determine best way to integrate these in a flexible way throughout as needed
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSfoqtUzwHiDlp-j4JgXDrwHuCdChRIyw56xspRLm_mQOTcIfg/viewform?usp=sf_link" target="_blank">Answer Central services questions</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSfoqtUzwHiDlp-j4JgXDrwHuCdChRIyw56xspRLm_mQOTcIfg/viewform?usp=sf_link" target="_blank">Answer Central services questions  🤔</a>
 
 ### 3. Event registrations
 
