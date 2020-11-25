@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 NDSU Ag & Ext has compiled a list of known content types, along with desired functionality, and outstanding questions. This list does not appear to be exhaustive based on the review of other components of this project (such as the Ag Hub, county extension offices, etc.).  Further discovery is needed to determine how these types interact across the entire Ag & Ext site.
 
-We have started an initial build plan draft below that will be expanded and revised as we continue to gather more information. See draft plan here:
+**We have started an initial build plan draft below that will be expanded and revised as we continue to gather more information. See draft plan here:**
 
 * See [Build plan draft](https://docs.google.com/document/d/1ubikpzz9qfGd5bDxCGCpTcKc-JsCyMPvYySkUo4nIKQ/edit?usp=sharing) -- if you have initial feedback on anything in this plan please post on Basecamp.
 

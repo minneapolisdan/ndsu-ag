@@ -53,7 +53,7 @@ Examples from current site(s):
 * https://www.ag.ndsu.edu/news/columns/spotlight-on-economics/spotlight-on-economics-selfish-behavior-has-economic-costs
 * https://www.ag.ndsu.edu/academics/student-profile-billie-lentz
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwyp1cxdB565XEpI5zBn-oTNYdCIpS0akCEsWjYOH5dzlsog/viewform?usp=sf_link" target="_blank">Answer News questions 🤔</a
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwyp1cxdB565XEpI5zBn-oTNYdCIpS0akCEsWjYOH5dzlsog/viewform?usp=sf_link" target="_blank">Answer  questions 🤔</a
 
 
 ## Publications
@@ -106,7 +106,7 @@ To design an effective way to organize newsletter subscribe buttons throughout t
 * Does every department/group etc. have a newsletter? How many are there? 
 * If we build a widget that allows you to drop a "subscribe to newsletter" button, with some descriptive text onto any area of the site is this sufficient? Are the newsletters coded such that the content editor would know what code to use for their particular newsletter?
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSeYlo2fNS5qyZ4WfGyobo6xEQvzjWUIDYyHMBHgeeslKYghhg/viewform?usp=sf_link" target="_blank">Answer Newsletter questions 🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSeYlo2fNS5qyZ4WfGyobo6xEQvzjWUIDYyHMBHgeeslKYghhg/viewform?usp=sf_link" target="_blank">Answer  Newsletter questions 🤔</a>
 
 ## Calls to Action
 
@@ -123,3 +123,9 @@ We have not discussed search; unless NDSU provision a Solr server we will be lim
 * Any other key search requirements? 
 
 <a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSesFsA0odCb8gteIaoatXbjaInn_J2Yhl7HeSHV7-Z-9znLrQ/viewform?usp=sf_link" target="_blank">Answer Search questions 🤔</a>
+
+## Design work
+
+We will be duplicating the existing NDSU theme, and are presuming a single theme will be used across the site and all microsites. 
+
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScwgJTlkRwVeAN_r0VLtQkzZcuvxRqI4OjJ2DGLO3NlyBMMKQ/viewform?usp=sf_link" target="_blank">Answer Design work questions 🤔</a>
