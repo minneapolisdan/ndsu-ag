@@ -129,7 +129,7 @@ https://www.ag.ndsu.edu/CentralGrasslandsREC
 <a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSfdvxBSlALZeIcdsl_pB4Ij9pUQdqo5ssYlmQPiUaaZ9I5VoQ/viewform?usp=sf_link" target="_blank">Answer Research Extension Centers questions 🤔</a>
 
 
-### Other
+## Other
 
 * Videos (Drupal media)
 * Images (Drupal media)
@@ -138,7 +138,7 @@ https://www.ag.ndsu.edu/CentralGrasslandsREC
 
 See question regarding newsletters in [open questions](/questions)
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSd_3hJuAcYjixdydyPQ168RZIVJ7oC9uOrw58gfmsOp7h0ygQ/viewform?usp=sf_link" target="_blank">Other questions 🤔</a
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLSd_3hJuAcYjixdydyPQ168RZIVJ7oC9uOrw58gfmsOp7h0ygQ/viewform?usp=sf_link" target="_blank">Other questions 🤔</a>
 
 ## Careers
 
@@ -146,7 +146,7 @@ This is a content type for job postings.
 Examples from current site(s): 
 https://www.ag.ndsu.edu/careers/current-job-openings
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScgMay_bLDvyMyPI7-b4lNry_J4cVPLV3p_tvI1nctJyqS8SQ/viewform?usp=sf_link" target="_blank">Careers question 🤔</a
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScgMay_bLDvyMyPI7-b4lNry_J4cVPLV3p_tvI1nctJyqS8SQ/viewform?usp=sf_link" target="_blank">Careers question 🤔</a>
 
 ### Out of scope for now?
 

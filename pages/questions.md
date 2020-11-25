@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Open questions
   order: 3
 ---
-These are a variety of high-level topics for open discussion that will inform some significant architectural decisions. 
+These are a variety of high-level topics for open discussion that will inform some significant architectural decisions. There is some duplication between these question areas and some of the content type questions, answer both as appropriate. 
 
 ## Navigation questions
 
