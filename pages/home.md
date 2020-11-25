@@ -22,7 +22,7 @@ Electric Citizen will develop a single Drupal 9 website that will bring the cont
 * All sections of the main site will share a common theme
 * All sections will share a common set of content types and functionality (with limitations and restrictions as needed) 
 
-### 1. NDSU Ag homepage
+### 1. NDSU Ag and Ext homepage
 
 We have not discussed the homepage in any detail so we should start this discussion soon.  
 
