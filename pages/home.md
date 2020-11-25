@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 The following sections outline our understanding of the current project scope, informed by all of the documentation and information generated to date. These documents include the original RFP, questions and responses, Electric Citizen's original proposal, meeting notes, and all files provided by NDSU.
 
-There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. This is a living website and will continue to be updated as more information arrifes.
+There are still numerous unknowns and questions to be answered and this project overview can be used to both inform those answers and to develop a final techincal architecture. This is a living website and will continue to be updated as more information arrives.
 
 ## Primary goals and requirements
 
@@ -18,18 +18,18 @@ Electric Citizen will develop a single Drupal 9 website that will bring the cont
 ![Diagram](/static/img/ndsu.png)
 
 * All sections of the main site will share a common theme
-* All sections will share a common set of content types and functionality (with limitations as needed)
-* 
+* All sections will share a common set of content types and functionality (with limitations and restrictions as needed) 
 
 ### 1. NDSU Ag homepage
 
-We have not discussed the homepage in any detail. 🤔 
+We have not discussed the homepage in any detail so we should start this discussion soon. 🤔 
 
-**Questions:**
-
-* Have you given any thought to how the homepage will be organized?
+<!-- * Have you given any thought to how the homepage will be organized?
 * What content should it contain? 
-* Will it need any special features?
+* Will it need any special features? -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfUfhxVrdGv-g6FoL_8vgMfz2ak5_2-iim9ZQzKPq9LzU21_w/viewform?embedded=true" width="100%" height="1100" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 ### 2. College of Agriculture, Food Systems, and Natural Resources (CAFSNR)
 
@@ -46,12 +46,14 @@ Moving forward, all of these sites will be moved under the CAFSNR umbrella of th
 
 All content and design desicions in this section should be geared toward student recruitments.
 
-#### Questions
+<!-- #### Questions
 
 * Does each school/dept have their own content team? 
 * Plus a main content team for CAFSNR?
 * You mention consistent menus for each school -- does this mean no custom pages/menu items for each school? Or should they be able to add additional pages as needed?
-* How should we handle the long name (College of Agriculture, Food Systems, and Natural Resources) in the top-level menu?
+* How should we handle the long name (College of Agriculture, Food Systems, and Natural Resources) in the top-level menu? -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSctQWd81uo58r3nXdCm9zk2USnY5Uw0__v587qQlJNt2pUS2w/viewform?embedded=true" width="100%" height="1051" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ### 3. Ag Hub
 
@@ -63,18 +65,22 @@ The Ag Hub is a new top-level section of the website that will be used to organi
 * [Wireframe](https://www.figma.com/proto/HmJmEmT8DQyGhk6Do370rn/NDSU-Wireframe?node-id=9%3A51&viewport=176%2C-201%2C1&scaling=min-zoom)
 
 ::: callout 
-*This remains the most unclear part of the project for our team.* Our understanding is that will contain a mixture of new content, along with content pulled from both Extension and perhaps CAFSNR. Defining the Ag Hub needs to happen soon and will inform large parts of the architecture.
+*This remains the most unclear part of the project for our team.* Our understanding is that it will contain a mixture of new content, along with content pulled from both Extension and perhaps CAFSNR. Defining the Ag Hub needs to happen soon and will inform large parts of the architecture.
 :::
 
-**Questions:** 
+<!-- **Questions:**  -->
 
-* From our conversations and from the wireframe presented, it appears this was originally intended to be a stand-alone site, but is now being folded into this umbrella site. Is this correct? 
+<!-- * From our conversations and from the wireframe presented, it appears this was originally intended to be a stand-alone site, but is now being folded into this umbrella site. Is this correct? 
 * From a techinical level, this appears to mostly a topic-based directory that includes search in order to present a variety of content (and content types) in a one-stop section of the website. Is that correct?
 * Given that this is no longer a stand-alone site (assuming our assumption is correct), **we believe there may be a better approach to the Ag Hub that is structed more like a searchable directory of resources (perhaps with faceted search), instead of a "minisite" within a site**. Are you open to discussing this approach?
 * In the architecture linked above there is a lot of content listed for Ag Hub that is actually part of extension, or another area of this site. 
 * We need to best determine how Ag Hub will function to pull in that content, vs creating it two places
 * In your site outline, you have both county centers and research centers under Ag Hub, while we are envisioning them under Extension, with CONTENT from those centers pulled into the Ag Hub as appropriate.
-* You site map also does indicate other content, such as all of the topics shown in the wireframe -- only REC/AES -- is your current thinking around Ag Hub much simpler than we are envisioning?
+* You site map also does indicate other content, such as all of the topics shown in the wireframe -- only REC/AES -- is your current thinking around Ag Hub much simpler than we are envisioning? -->
+
+<iframe class="mt-4" src="https://docs.google.com/forms/d/e/1FAIpQLScR2wn1BZPV3PXiqwxceIJJDfAenxCDQuCbfV93gyWr6LzBhA/viewform?embedded=true" width="100%" height="1497" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
 
 ## 4. NDSU Extension
 
@@ -93,9 +99,11 @@ Each topic currently has a slider with large images linking out to various place
 
 **Questions:**
 
-* NDSU indicates that this content is being re-organized with a new architecture. When will this work be complete?
+<!-- * NDSU indicates that this content is being re-organized with a new architecture. When will this work be complete?
 * Are the "topics" pages all self-managed by each group? They are set up different, and many out of date. Is there a better way to handle "topics"? 
-* For program registrations, these appear to be handled by an external link to an NDSU payment system -- can we assume this to be case moving forward also?
+* For program registrations, these appear to be handled by an external link to an NDSU payment system -- can we assume this to be case moving forward also? -->
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePCUUinA-TxTU_6w7K0pINmIOvFxN9p7udggKaPb9i3XGwEQ/viewform?embedded=true" width="100%" height="1099" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## Assumptions and Agreements
 
