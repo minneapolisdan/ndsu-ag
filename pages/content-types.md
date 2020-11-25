@@ -41,7 +41,7 @@ NDSU Ag & Ext will need an Events content type with the ability to add date-and-
 
 Our understanding is that all news will come from central services and that we may need one or more content types to accomodate news imports. 
 
-* See the related events questions in [Open questions](/questions)
+* See the related news questions in [Open questions](/questions)
 
 ## Profiles
 
@@ -146,7 +146,7 @@ This is a content type for job postings.
 Examples from current site(s): 
 https://www.ag.ndsu.edu/careers/current-job-openings
 
-<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScgMay_bLDvyMyPI7-b4lNry_J4cVPLV3p_tvI1nctJyqS8SQ/viewform?usp=sf_link" target="_blank">Careers question 🤔</a>
+<a class="button bg-green-500 hover:bg-blue-500 rounded" href="https://docs.google.com/forms/d/e/1FAIpQLScgMay_bLDvyMyPI7-b4lNry_J4cVPLV3p_tvI1nctJyqS8SQ/viewform?usp=sf_link" target="_blank">Careers questions 🤔</a>
 
 ### Out of scope for now?
 
